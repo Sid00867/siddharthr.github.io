@@ -140,3 +140,29 @@ span.highlight {
     display: inline-block;
     border-radius: 10px;
 }
+
+
+/* ---------- Dark Theme Override ---------- */
+
+body {
+  background-color: #0f1115;
+  color: #c9d1d9;
+}
+
+a {
+  color: #58a6ff;
+}
+
+a:hover,
+a:focus {
+  color: #f0a45d;
+}
+
+h2,
+.name {
+  color: #e6edf3;
+}
+
+span.highlight {
+  background-color: #2a2f3a;
+}
